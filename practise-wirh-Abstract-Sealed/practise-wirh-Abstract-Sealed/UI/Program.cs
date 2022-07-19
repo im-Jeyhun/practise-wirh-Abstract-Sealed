@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace practise_wirh_Abstract_Sealed
+namespace practise_wirh_Abstract_Sealed.UI
 {
     internal class Program
     {
